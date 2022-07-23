@@ -6,3 +6,4 @@
 <p>First contact with JAVA language.<br>
 Practice of OOP concepts: abstraction, encapsulation, inheritance and polymorphism.</p>
 <h2>License</h2>
+<p>This project is under <a href="https://github.com/marcelofgaraujo/dio_DigitalBank/blob/master/LICENSE">MIT License.</a></p>
